@@ -1,0 +1,13 @@
+profile_name,year,period,value
+CH_Pump_Hydro_Open_Max_Storage_Level,2050,1,0.7171174937589017
+CH_Pump_Hydro_Open_Min_Storage_Level,2050,1,0.45110830242740446
+FI_Hydro_Reservoir_Max_Storage_Level,2050,1,0.7620634646301171
+FI_Hydro_Reservoir_Min_Storage_Level,2050,1,0.3162778370328748
+FR_Hydro_Reservoir_Max_Storage_Level,2050,1,0.7608136986301043
+FR_Hydro_Reservoir_Min_Storage_Level,2050,1,0.408139726027404
+NO_Hydro_Max_Storage_Level,2050,1,0.8571872145863008
+NO_Hydro_Min_Storage_Level,2050,1,0.4580045662164426
+SE_Hydro_Reservoir_Max_Storage_Level,2050,1,0.8404661000109334
+SE_Hydro_Reservoir_Min_Storage_Level,2050,1,0.2970446979178137
+SK_Hydro_Reservoir_Max_Storage_Level,2050,1,0.8716027397260069
+SK_Hydro_Reservoir_Min_Storage_Level,2050,1,0.5502082191780617
